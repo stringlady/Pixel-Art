@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+<body>
+<style>
+#art {
+	width: 132px;
+	height: 132px;
+}
+
+#art:after {
+	content: '';
+	display: block;
+	width: 6px;
+	height: 6px;
+	background: rgb(70, 76, 139);
+	box-shadow:78px 60px #518b41,102px 60px #518b41,12px 60px #518b41,24px 60px #518b41,36px 60px #518b41,42px 60px #518b41,60px 60px #518b41,54px 60px #518b41,114px 60px #518b41,108px 48px #518b41,24px 48px #518b41,72px 48px #518b41,48px 30px #518b41,78px 24px #518b41,60px 12px #518b41,30px 18px #518b41,42px 12px #518b41,18px 30px #518b41,18px 18px #518b41,30px 6px #518b41,12px 6px #518b41,0px 18px #518b41,0px 6px #518b41,108px 78px #518b41,90px 90px #518b41,102px 90px #518b41,108px 114px #518b41,114px 114px #518b41,72px 102px #8b264e,36px 96px #8b264e,72px 84px #8b264e,48px 84px #8b264e,60px 108px #8b264e,78px 120px #8b264e,42px 108px #8b264e,12px 108px #8b264e,60px 120px #8b264e,36px 126px #8b264e,30px 108px #8b264e,18px 96px #8b264e,6px 84px #8b264e,6px 72px #8b264e,6px 48px #8b264e,36px 36px #8b264e,54px 48px #8b264e,66px 36px #8b264e,72px 18px #8b264e,90px 12px #8b264e,114px 12px #8b264e,114px 30px #8b264e,90px 30px #8b264e,102px 18px #8b264e,114px 6px #8b264e,120px 18px #8b264e,120px 54px #8b264e,114px 84px #8b264e,102px 102px #8b264e,84px 120px #8b264e,84px 108px #8b264e,84px 72px #8b264e,96px 78px #8b264e,54px 72px #8b264e,96px 54px #8b264e,84px 42px #8b264e,102px 36px #8b264e,72px 6px #8b264e,42px 6px #8b264e,6px 120px #20208b,120px 120px #20208b,126px 120px #464c8b,120px 126px #464c8b,6px 126px #464c8b,0px 120px #464c8b,126px 126px #464c8b,0px 126px #464c8b,120px 0px #464c8b,126px 0px #464c8b,6px 0px #464c8b,72px 72px #218b28,60px 90px #218b28,60px 84px #218b28,66px 72px #218b28,60px 78px #218b28,60px 72px #218b28,30px 78px #852e8b,30px 72px #852e8b,24px 72px #852e8b,36px 72px #852e8b,30px 66px #852e8b,30px 84px #852e8b,30px 60px #852e8b,30px 96px #852e8b,48px 42px #efff0f,54px 36px #efff0f,48px 24px #efff0f,66px 24px #efff0f,54px 12px #efff0f,66px 6px #efff0f,54px 6px #efff0f,84px 6px #efff0f,102px 6px #efff0f,24px 0px #efff0f,6px 42px #efff0f,36px 48px #efff0f,12px 96px #efff0f,120px 108px #efff0f,120px 90px #efff0f,126px 30px #efff0f,96px 30px #efff0f,90px 54px #efff0f,102px 48px #efff0f,78px 90px #efff0f,84px 114px #efff0f,96px 126px #efff0f,66px 120px #efff0f,78px 114px #efff0f,48px 102px #efff0f,42px 90px #efff0f,60px 102px #efff0f,24px 120px #efff0f,48px 120px #efff0f,0px 102px #efff0f,30px 36px #efff0f;
+}
+</style>
+<div id="art"></div>
+</body>
+</html>
